@@ -281,7 +281,7 @@ export function TvExperience({ channels }: TvExperienceProps) {
               <Tv size={22} aria-hidden="true" />
             </span>
             <span>ROHAN MOHAMMAD LIVE TV</span>
-            <span>ROHAN MOHAMMAD LIVE TV</span>
+            <span className="text-xs">ROHAN full stack next js and mern ai ml dev.</span>
           </div>
           <div className="topbar-meta">
             <span>{clock}</span>
